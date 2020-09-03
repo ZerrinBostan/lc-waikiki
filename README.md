@@ -1,2 +1,2 @@
-# lc-waikiki
-homepage design.
+# lc-waikiki 
+vue-101
