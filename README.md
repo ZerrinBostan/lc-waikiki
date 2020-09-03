@@ -1,6 +1,6 @@
 # lc-waikiki
 
-# Author Zerrin Bostan zerrinbstn@gmail.com
+# Author Zerrin Bostan https://www.linkedin.com/in/zerrin-bostan-b16aab166/
 
 ## Project setup
 ```
