@@ -1,7 +1,5 @@
 # lc-waikiki
 
-# Author Zerrin Bostan https://www.linkedin.com/in/zerrin-bostan-b16aab166/
-
 ## Project setup
 ```
 yarn install
