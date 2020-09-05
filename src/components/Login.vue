@@ -3,14 +3,10 @@
     <h4 class="font-weight-bold mb-0">ÜYE GİRİŞİ</h4>
     <Input
       input_type="email"
-      icon="fas fa-key"
+      icon="fas fa-envelope"
       placeholder="E posta Adresiniz"
     />
-    <Input
-      input_type="password"
-      icon="fas fa-envelope"
-      placeholder="Şifreniz"
-    />
+    <Input input_type="password" icon="fas fa-key" placeholder="Şifreniz" />
     <div class="password-wrapper">
       <Checkbox label="Beni hatırla" />
       <a href="https://www.google.com" class="password-forget"
