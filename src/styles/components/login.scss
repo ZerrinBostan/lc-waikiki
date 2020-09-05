@@ -1,0 +1,55 @@
+.login-wrapper {
+  display: flex;
+  justify-content: center;
+
+  .login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    width: 292px;
+
+    h4 {
+      padding-bottom: 9px;
+    }
+
+    .password-wrapper {
+      display: flex;
+      justify-content: space-between;
+
+      .password-forget {
+        font-size: 15px;
+        color: $dusty-gray;
+
+        &:hover {
+          color: $emperor;
+        }
+      }
+    }
+
+    .button {
+      margin-top: 6px;
+    }
+
+    .sign-up-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 12px;
+
+      .sign-up-or {
+        line-height: 24px;
+      }
+      
+      .sign-up-text {
+        font-size: 14ppx;
+        color: $dusty-gray;
+
+        a {
+          color: $cerulean;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}
