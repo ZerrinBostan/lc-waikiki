@@ -1,7 +1,10 @@
 .button {
-    background: $cerulean-blue;
-    border-color: transparent;
-    color: $white;
-    outline: none;
-    height: 35px;
+  background: $cerulean-blue;
+  border-color: transparent;
+  color: $white;
+  height: 35px;
+  
+  &:hover {
+    opacity: 0.9;
+  }
 }
