@@ -7,10 +7,13 @@
 </template>
 
 <script>
-import Login from "./components/Login.vue";
+import { Login } from "./components";
+import "es6-promise/auto";
+import store from "./store";
 
 export default {
   name: "App",
+  store,
   components: {
     Login
   }
